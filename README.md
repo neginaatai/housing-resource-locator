@@ -42,7 +42,7 @@ Finding housing assistance can be challenging, especially when information is sc
 ### Steps
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/HousingResourceLocator.git
+   git clone https://github.com/neginaatai/HousingResourceLocator.git
    cd HousingResourceLocator/HousingResourceUI
 ```
 
