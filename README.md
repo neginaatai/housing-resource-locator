@@ -23,18 +23,18 @@ Finding housing assistance can be challenging, especially when information is sc
 
 <img width="500" height="400" alt="Screenshot 2025-12-03 at 11 15 08 AM" src="https://github.com/user-attachments/assets/731bad52-c191-4bd3-832f-4e74723facd2" />
 
-*View detailed information about available resources*
-
 ## Features
-- Search by Chicago zip code
-- View all housing resources
-- SQLite database integration
-- Cross-platform desktop app (Windows, macOS, Linux)
+- 🔍 **Zip Code Search** - Find resources in specific Chicago neighborhoods
+- 📋 **View All Resources** - Browse complete database of housing services
+- 📞 **Contact Information** - Phone numbers and addresses for each resource
+- 🏷️ **Categorized Services** - Resources organized by type (shelters, housing assistance, etc.)
+- 💾 **Local Database** - Fast, reliable SQLite storage
 
-## Technologies
-- C# / .NET
-- Avalonia UI
-- SQLite
+## Technologies Used
+- **C# / .NET 8.0** - Application framework
+- **Avalonia UI** - Cross-platform desktop UI framework
+- **SQLite** - Lightweight database for resource storage
+- **Microsoft.Data.Sqlite** - Database connectivity
 
 ## How to Run
 ```bash
