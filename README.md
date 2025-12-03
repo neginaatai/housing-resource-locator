@@ -8,7 +8,7 @@ Find affordable housing and support services in Chicago
 
 *Search for housing resources by zip code*
 
-![Search Results](screenshots/search-results.png)
+<img width="691" height="589" alt="Screenshot 2025-12-03 at 11 15 08 AM" src="https://github.com/user-attachments/assets/731bad52-c191-4bd3-832f-4e74723facd2" />
 
 *View detailed information about available resources*
 
@@ -27,15 +27,4 @@ Find affordable housing and support services in Chicago
 ```bash
 dotnet run
 ```
-```
 
-**4. Organize Your Screenshots:**
-Create a folder in your repo:
-```
-HousingResourceLocator/
-├── screenshots/
-│   ├── main-window.png
-│   ├── search-results.png
-│   └── view-all.png
-├── HousingResourceUI/
-└── README.md
