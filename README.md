@@ -36,8 +36,26 @@ Finding housing assistance can be challenging, especially when information is sc
 - **SQLite** - Lightweight database for resource storage
 - **Microsoft.Data.Sqlite** - Database connectivity
 
-## How to Run
+### Prerequisites
+- .NET 8.0 SDK or later
+
+### Steps
+1. Clone the repository:
 ```bash
-dotnet run
+   git clone https://github.com/yourusername/HousingResourceLocator.git
+   cd HousingResourceLocator/HousingResourceUI
 ```
+
+2. Run the application:
+```bash
+   dotnet run
+```
+
+## Future Enhancements
+- Add mapping/GPS integration to show resource locations
+- Include real-time availability status
+- Expand to other cities beyond Chicago
+- Add filtering by service type
+- Implement favorites/bookmarking feature
+
 
